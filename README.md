@@ -1,5 +1,4 @@
-Data-Driven Customer Segmentation with K-Means Clustering
-# 📊 Customer Segmentation using K-Means Clustering
+# 📊 Data-Driven Customer Segmentation with K-Means Clustering
 
 ### 👨‍💻 Author  
 **Ameenurrahman Tohwae**  
